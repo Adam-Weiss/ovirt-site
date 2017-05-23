@@ -43,7 +43,7 @@ What is the benefit to the oVirt project? If this is a major capability update, 
 
 #### Entity Description
 
-New entities and changes in existing entities.
+spesfy New entities and changes in existing entities.
 
 #### CRUD
 
